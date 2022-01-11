@@ -2,7 +2,7 @@ version: 0.0
 os: ubuntu
 files:
   - source: .
-    destination: /home/ubuntu/django/myproject
+    destination: /home/ubuntu/github-django-actions/myproject
 hooks:
   ApplicationStart:
    - location: run.sh

@@ -3,7 +3,7 @@ sudo apt update
 sudo apt -y upgrade
 
 # Destination folder
-cd /home/ubuntu
+cd /home/ubuntu/github-django-actions
 # AWS CLI needed to get parameters
 sudo apt install -y awscli
 
